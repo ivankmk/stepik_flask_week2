@@ -45,4 +45,5 @@ def tours(id):
                             tour=tour)
 
 
-app.run(debug=True)
+if __name__ == '__main__':
+    app.run()
