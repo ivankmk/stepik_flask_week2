@@ -8,7 +8,6 @@ __pycache__/
 /datacenter
 /project
 manage.py
-requirements.txt
 
 # Distribution / packaging
 .Python
